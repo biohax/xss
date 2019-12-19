@@ -1,0 +1,5 @@
+body {
+	background-color: #FFFFFF;
+	width: expression(alert('XSS'));
+	margin: 10px 40px;
+}
